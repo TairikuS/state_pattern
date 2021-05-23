@@ -15,10 +15,11 @@ gotoは、ありえないので、挙動を変えずに、ステートパター�
 
 
 # ビルド状態
-[![MSBuild](https://github.com/tpu-game-2021/state_pattern/actions/workflows/msbuild.yml/badge.svg)](https://github.com/tpu-game-2021/state_pattern/actions/workflows/msbuild.yml)
+[![MSBuild](https://github.com/TairikuS/state_pattern/actions/workflows/msbuild.yml/badge.svg)](https://github.com/TairikuS/state_pattern/actions/workflows/msbuild.yml)
 
 （このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
 
 
 # 〆切
 5/24(月)
+switch文を使って状態を分けることしかできませんでした。
